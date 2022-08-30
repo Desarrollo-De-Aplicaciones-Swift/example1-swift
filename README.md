@@ -1,5 +1,5 @@
 # example1-swift
-## Diplomado de Desarrollo de Aplicaciones para Dispositivos Móviles
+# Diplomado de Desarrollo de Aplicaciones para Dispositivos Móviles
 
 ### Ejercicio 1 - ID Actions ID Outlets
 
